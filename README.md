@@ -395,8 +395,20 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 ロボット工学における実世界での深層強化学習（DRL）アプリケーションの調査は、既存の成功事例を評価し、実現要因を特定し、さまざまなロボット能力にわたる未解決の課題を概説している。この研究は、斬新な分類法と「実世界での成功レベル」指標を導入し、DRLの現在の成熟度に関する構造化された評価を提供し、この分野における将来の研究方向を導くものである。
 </li></ul>
 </li>
-
 </ul>
+
+<h3>Self-Supervised Learning (自己教師あり学習), Anomaly Detection (異常検知)</h3>
+<p>
+<ul>
+<li>A Review on Self-Supervised Learning for Time Series Anomaly Detection: Recent Advances and Open Challenges</li>
+<li>時系列異常検知における自己教師あり学習：包括的レビュー</li>
+<li><a href="https://www.alphaxiv.org/overview/2501.15196v1">https://www.alphaxiv.org/overview/2501.15196v1</a></li>
+<li>概要
+<ul>
+<li>
+時系列異常検出のための自己教師あり学習アプローチに関する初の包括的な系統的レビューは、新しい分類フレームワークを提供し、重要な研究ギャップを特定した。これにより、研究者と実務家の両方にとって貴重な洞察を提供し、ヘルスケアや産業監視などの分野におけるこの分野の急速な進化と主要な課題を浮き彫りにしている。
+</li></ul>
+</li></ul>
 
 <h3>Text-to-3D</h3>
 <p>
