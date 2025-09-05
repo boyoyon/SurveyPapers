@@ -211,7 +211,7 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 </li></ul>
 </li></ul>
 
-<h3>Gait Recognition (歩容認識, 歩行認識)</h3>
+<h3>Gait Recognition (歩容(=歩き方の)認識, 歩行(=歩いている事の)認識)</h3>
 <p>
 <ul>
 <li>Deep Gait Recognition: A Survey</li>
