@@ -121,7 +121,7 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 構成的視覚推論（CVR）を定義し分類し、その手法の5段階の進化ロードマップを提案し、主要な課題と今後の研究方向性を概説しています。
 </li></ul>
 </li></ul>
-
+<center><img src="images/evolution_of_VLM.svg"></center>
 <h3>Computer Vision, Transformer</h3>
 <p>
 <ul>
