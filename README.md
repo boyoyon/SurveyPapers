@@ -120,19 +120,6 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 </li></ul>
 </li></ul>
 
-<h3>Automatic Text Summarization (自動要約)</h3>
-<p>
-<ul>
-<li>A Comprehensive Survey on Process-Oriented Automatic Text Summarization with Exploration of LLM-Based Methods</li>
-<li>プロセス指向型自動テキスト要約に関する包括的総説：LLMに基づく手法の検討</li>
-<li><a href="https://www.alphaxiv.org/ja/overview/2403.02901v2">https://www.alphaxiv.org/ja/overview/2403.02901v2</a></li>
-<li>概要
-<ul>
-<li>
-自動テキスト要約（ATS）の進化を、従来の統計的手法や深層学習手法から、最近の大規模言語モデル（LLM）ベースのアプローチまでマッピングし、LLM技術の詳細な分析を提供し、文献検索のための新しいLLM拡張アルゴリズムを導入しています。
-</li></ul>
-</li></ul>
-
 <h3>Autonomous Driving (自動運転), Deep Reinforcement Learning (深層強化学習)</h3>
 <p>
 <ul>
