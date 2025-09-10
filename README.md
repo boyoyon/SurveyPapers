@@ -44,6 +44,41 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 </li></ul>
 </li></ul>
 
+<h3>AI Agents (AIエージェント), Autonomous Agents (自律エージェント)</h3>
+<p>
+<ul>
+<li>A Comprehensive Review of AI Agents: Transforming Possibilities in Technology and Beyond</li>
+<li>AIエージェントの包括的レビュー：テクノロジーとその先の可能性を拓く</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2508.11957v1">https://www.alphaxiv.org/ja/overview/2508.11957v1</a></li>
+<li>概要
+<ul>
+<li>
+急速に進化するAIエージェントの状況を統合し、そのアーキテクチャ原則、コアコンポーネント、および多様なアプリケーションについて、包括的、体系的、かつアクセスしやすい概要を提供する
+</li></ul>
+<br>
+
+<li>A Survey on Large Language Model based Autonomous Agents</li>
+<li>大規模言語モデルに基づく自律エージェントに関するサーベイ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2308.11432v7">https://www.alphaxiv.org/ja/overview/2308.11432v7</a></li>
+<li>概要
+<ul>
+<li>
+大規模言語モデル（LLM）ベースの自律エージェントに関する包括的かつ体系的なレビューを提供
+</li></ul>
+<br>
+
+<li>From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review</li>
+<li>LLMの推論から自律型AIエージェントへ：包括的なレビュー</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2504.19678v1">https://www.alphaxiv.org/ja/overview/2504.19678v1</a></li>
+<li>概要
+<ul>
+<li>
+2019年から2025年までのフレームワークを分析し、エージェントコラボレーションプロトコルの詳細な比較を提供するとともに、材料科学、生物医学研究、ソフトウェアエンジニアリングなどの分野における主要な研究課題を特定する
+</li></ul>
+<br>
+</li></ul>
+</p>
+
 <h3>AIoT: Artificial Intelligence of Things</h3>
 <p>
 <ul>
@@ -211,6 +246,20 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 </li></ul>
 </li></ul>
 
+<h3>Federated Learning (連合学習)</h3>
+<p>
+<ul>
+<li>Federated Learning for Large Models in Medical Imaging: A Comprehensive Review</li>
+<li>医用画像における大規模モデル向け連合学習：総説</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2508.20414v1">https://www.alphaxiv.org/ja/overview/2508.20414v1</a></li>
+<li>概要
+<ul>
+<li>
+患者のプライバシーを保護しながら、特に大規模AIモデルの統合とスケーラビリティに対処し、物理駆動型再構成から臨床分析まで、医療画像パイプライン全体におけるフェデレーテッドラーニング（FL）の応用を統合している
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Gait Recognition (歩容(=歩き方の)認識, 歩行(=歩いている事の)認識)</h3>
 <p>
 <ul>
@@ -297,6 +346,25 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 長文大規模言語モデルの全ライフサイクルを概説し、アーキテクチャ、インフラ、学習、評価にわたる進歩と課題を体系的に分析している。最先端の技術を特定し、将来の開発を導く10の未解決の研究課題を提示している。
 </li></ul>
 <br>
+<li>A Comprehensive Overview of Large Language Models</li>
+<li>大規模言語モデルの包括的概観</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2307.06435v10">https://www.alphaxiv.org/ja/overview/2307.06435v10</a></li>
+<li>概要
+<ul>
+<li>
+大規模言語モデル（LLM）に関する広範かつ急速に進化する文献を統合し、そのアーキテクチャ、トレーニング戦略、および応用に関する構造化されたリソースを提供する
+</li></ul>
+<br>
+
+<li>Continual Learning of Large Language Models: A Comprehensive Survey</li>
+<li>大規模言語モデルの継続学習：網羅的な調査</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2404.16789v3">https://www.alphaxiv.org/ja/overview/2404.16789v3</a></li>
+<li>概要
+<ul>
+<li>
+大規模言語モデルにおける継続学習に関する初の包括的な概観を提供
+</li></ul>
+<br>
 
 <li>Small Language Models are the Future of Agentic AI</li>
 <li>小型言語モデルはエージェントAIの未来である</li>
@@ -305,6 +373,17 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 <ul>
 <li>
 AIエージェントの基盤となる知能としてスモール言語モデル（SLM）が効果的に機能しうると提案しています。彼らは、エージェントシステム内の特定の、しばしば限定的なタスクに対して、SLMが大規模言語モデル（LLM）よりも経済的で運用上適していると主張しています。本論文は、SLM中心のエージェントアーキテクチャへの移行のためのフレームワークを提示しており、大幅なコスト削減とデプロイの柔軟性の向上を予測しています。
+</li></ul>
+<br>
+
+<li>A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness</li>
+<li>大規模言語モデルの時代における小規模言語モデルの包括的調査</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2411.03350v1">https://www.alphaxiv.org/ja/overview/2411.03350v1</a></li>
+<li>概要
+<ul>
+<li>
+リソースが限られた環境向けに、大規模言語モデル（LLM）の効率的な代替手段としての小規模言語モデル（SLM）の構造化された分析を提供
+</li></ul>
 </li></ul>
 </li></ul>
 
@@ -334,6 +413,20 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 </li></ul>
 </li></ul>
 
+<h3>MTL Multi-Task Learning (マルチタスク学習)</h3>
+<p>
+<ul>
+<li>Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras</li>
+<li>マルチタスク学習の力を解き放つ：従来型、深層学習、事前学習済み基盤モデル時代にわたる包括的サーベイ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2404.18961v1">https://www.alphaxiv.org/ja/overview/2404.18961v1</a></li>
+<li>概要
+<ul>
+<li>
+マルチタスク学習（MTL）の進化の、従来の機械学習における起源から、深層学習、そして事前学習済み基盤モデルの出現に至るまでの現状を詳述
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Patent Analysis (特許分析), Multimodal AI (マルチモーダルAI)</h3>
 <p>
 <ul>
@@ -346,6 +439,35 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 特許分析への自然言語処理とマルチモーダルAIの応用を体系的にレビューし、分類、検索、品質分析、生成といったタスク全体で手法を分類するための新しい分類法を導入している。この研究は、高度な言語モデルへの明確な移行と、マルチモーダルアプローチの重要性の増大を特定するとともに、評価指標の不適切さや人間の監視の必要性といった課題も概説している。
 </li></ul>
 </li></ul>
+
+<h3>Quantization (量子化)</h3>
+<p>
+<ul>
+<li>Quantized Neural Networks for Microcontrollers: A Comprehensive Review of Methods, Platforms, and Applications</li>
+<li>マイクロコントローラ向け量子化ニューラルネットワーク: 手法、プラットフォーム、およびアプリケーションの包括的レビュー</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2508.15008v1">https://www.alphaxiv.org/ja/overview/2508.15008v1</a></li>
+<li>概要
+<ul>
+<li>
+マイクロコントローラにおける量子化ニューラルネットワーク（QNN）の手法、プラットフォーム、およびアプリケーションを統合し、リソースが制約されたエッジデバイスで効率的な深層学習推論を可能にするための統合的な視点を提供する
+</li></ul>
+</li></ul>
+</p>
+
+<h3>Reinforcement Learning 強化学習</h3>
+<p>
+<ul>
+<li>Reinforcement Learning: An Overview</li>
+<li>強化学習：概観</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2412.05265v3">https://www.alphaxiv.org/ja/overview/2412.05265v3</a></li>
+<li>概要
+<ul>
+<li>
+強化学習に関する包括的かつ体系的に整理された概要。
+この分野のための統一された教育的および参照リソースとしての役割を果たすことを目指している。
+</li></ul>
+</li></ul>
+</p>
 
 <h3>Riemannian Submanifolds (リーマン部分多様体)</h3>
 <p>
@@ -410,6 +532,20 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 </li></ul>
 </li></ul>
 
+<h3>Speech Summarization (音声要約)</h3>
+<p>
+<ul>
+<li>From Speech to Summary: A Comprehensive Survey of Speech Summarization</li>
+<li>音声から要約へ：音声要約の包括的な調査</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2504.08024v1">https://www.alphaxiv.org/ja/overview/2504.08024v1</a></li>
+<li>概要
+<ul>
+<li>
+進化する音声要約の分野を包括的に検証し、進歩を統合し、主要な課題を特定し、将来の研究方向性を示している
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Text-to-3D</h3>
 <p>
 <ul>
@@ -435,7 +571,6 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 <li>
 </li></ul>
 </li></ul>
-
 </p>
     </body>
 </html>
