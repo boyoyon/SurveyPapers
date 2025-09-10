@@ -107,7 +107,7 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 </li></ul>
 </li></ul>
 
-<h3>automated scholarly paper review (自動査読)</h3>
+<h3>Automated Scholarly Paper Review (自動査読)</h3>
 <p>
 <ul>
 <li>Large language models for automated scholarly paper review: A survey</li>
