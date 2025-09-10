@@ -18,6 +18,21 @@
 ・キーワードのアルファベット順<br>
 ・発表時期はURLで西暦下位2桁＋月を確認できる
 </p>
+
+<h3>3D point cloud classification and semantic segmentation (3D点群の分類とセグメンテーション)</h3>
+<p>
+<ul>
+<li>A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation</li>
+<li>3D点群の分類とセマンティックセグメンテーションにおける深層学習技術の包括的な概観</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2405.11903v1">https://www.alphaxiv.org/ja/overview/2405.11903v1</a></li>
+<li>概要
+<ul>
+<li>
+2015年から2023年までの3D点群の分類とセマンティックセグメンテーションにおける深層学習の進歩を統合する。
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Agentic Reinforcement Learning (エージェント型強化学習)</h3>
 <p>
 <ul>
@@ -131,6 +146,20 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 </li></ul>
 </li></ul>
 
+<h3>Autonomous Navigation (自律航法)</h3>
+<p>
+<ul>
+<li>A Comprehensive Review on Autonomous Navigation</li>
+<li>自律航法に関する包括的レビュー</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2212.12808v1">https://www.alphaxiv.org/ja/overview/2212.12808v1</a></li>
+<li>概要
+<ul>
+<li>
+自律航法に関する包括的なレビューであり、センサー、ロボットプラットフォーム、シミュレーション、経路計画、障害物回避、SLAMといった主要な分野において、伝統的なアプローチと現代のディープラーニングおよび強化学習アプローチの両方を統合している。
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Autoregressive Models (自己回帰モデル)</h3>
 <p>
 <ul>
@@ -143,6 +172,20 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 コンピュータビジョンにおける自己回帰モデルを体系的に分類し、ピクセルベースからトークンベースおよびスケールベースの表現への進化を詳しく説明しています。画像生成、ビデオ生成、3Dコンテンツ作成、マルチモーダル合成におけるその多様な応用を探り、他の生成モデルとの関係を議論し、現在の課題と将来の研究方向性を特定しています。
 </li></ul>
 </li></ul>
+
+<h3>Code Generation (コード生成)</h3>
+<p>
+<ul>
+<li>A Survey on Large Language Models for Code Generation</li>
+<li>コード生成のための大規模言語モデルに関する調査：概要</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2406.00515v1">https://www.alphaxiv.org/ja/overview/2406.00515v1</a></li>
+<li>概要
+<ul>
+<li>
+コード生成のための大規模言語モデルという急速に進化する分野を体系的に分類し、データキュレーション、モデルアーキテクチャ、評価方法、および実世界でのアプリケーションに関する包括的な概要を提供
+</li></ul>
+</li></ul>
+</p>
 
 <h3>Compositional Visual Reasoning (構成的視覚推論)</h3>
 <p>
@@ -169,6 +212,20 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 コンピュータビジョンにおけるTransformerモデルの包括的な概要を提供し、急速に拡大する文献をアーキテクチャ設計とタスクアプリケーション別に体系的に整理しています。NLPに起源を持つこれらのモデルが、分類、検出、セグメンテーションなど、様々なビジョンタスクで競争力のあるパフォーマンスを達成するためにどのように成功裏に適応されたかについて、調査結果を総合しています。
 </li></ul>
 </li></ul>
+
+<h3>Community Detection (コミュニティ検出)</h3>
+<p>
+<ul>
+<li>A Comprehensive Review of Community Detection in Graphs</li>
+<li>グラフにおけるコミュニティ検出の包括的なレビュー</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2309.11798v5">https://www.alphaxiv.org/ja/overview/2309.11798v5</a></li>
+<li>概要
+<ul>
+<li>
+既存のコミュニティ検出手法が4つの主要なフレームワークに分類され、この分野の構造化された理解が提供される
+</li></ul>
+</li></ul>
+</p>
 
 <h3>Continue Learning (継続学習)</h3>
 <p>
@@ -385,7 +442,35 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 リソースが限られた環境向けに、大規模言語モデル（LLM）の効率的な代替手段としての小規模言語モデル（SLM）の構造化された分析を提供
 </li></ul>
 </li></ul>
+</p>
+
+<h3>Materials Science (材料科学)</h3>
+<p>
+<ul>
+<li>A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools</li>
+<li>材料科学におけるAIのサーベイ：基盤モデル、LLMエージェント、データセット、およびツール</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2506.20743v1">https://www.alphaxiv.org/ja/overview/2506.20743v1</a></li>
+<li>概要
+<ul>
+<li>
+材料科学における人工知能の役割、特に基盤モデルと大規模言語モデルエージェントに焦点を当てた包括的な概要を提供する
 </li></ul>
+</li></ul>
+</p>
+
+<h3>MoE:Mixture-of-Experts (エキスパート混合)</h3>
+<p>
+<ul>
+<li>A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications</li>
+<li>エキスパート混合モデルの包括的サーベイ：アルゴリズム、理論、応用</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2503.07137v3">https://www.alphaxiv.org/ja/overview/2503.07137v3</a></li>
+<li>概要
+<ul>
+<li>
+Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
+</li></ul>
+</li></ul>
+</p>
 
 <h3>Multiagent Deep Reinforcement Learning (マルチ・エージェント深層強化学習)</h3>
 <p>
@@ -398,7 +483,17 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 <li>
 マルチエージェント深層強化学習（MDRL）を包括的にレビューし、研究を4つの分野に分類し、非定常性やマルチエージェントの信用割り当てといった課題に対処するために、従来のマルチエージェント学習と強化学習の概念がどのように適応されてきたかを批判的に分析しています。
 </li></ul>
+<br>
+<li>A Comprehensive Review of Multi-Agent Reinforcement Learning in Video Games</li>
+<li>ビデオゲームにおけるマルチエージェント強化学習の包括的総説</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2509.03682v1">https://www.alphaxiv.org/ja/overview/2509.03682v1</a></li>
+<li>概要
+<ul>
+<li>
+ビデオゲームにおけるマルチエージェント強化学習（MARL）の応用に関する包括的なレビューを提供し、重要な課題を分析し、様々なジャンルにおける成功した実装を紹介している
 </li></ul>
+</li></ul>
+</p>
 
 <h3>Multi-Robot Systems (マルチ・ロボット・システム)</h3>
 <p>
@@ -454,6 +549,20 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 </li></ul>
 </p>
 
+<h3>Recommendation (推薦)</h3>
+<p>
+<ul>
+<li>Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap</li>
+<li>大規模言語モデル（LLM）時代に向けたコールドスタート推薦：包括的な調査とロードマップ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2501.01945v2">https://www.alphaxiv.org/ja/overview/2501.01945v2</a></li>
+<li>概要
+<ul>
+<li>
+コールドスタート推薦手法を詳述し、外部知識源に基づく新しい分類法を導入し、大規模言語モデル（LLM）の統合について詳しく説明
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Reinforcement Learning 強化学習</h3>
 <p>
 <ul>
@@ -481,6 +590,20 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 リーマン部分多様体理論の包括的な調査を提供し、他の多様体に埋め込まれた多様体の幾何学に関する数十年の研究を統合しています。それは、基本的な概念、主要な定理、および特殊な部分多様体のクラスを明確にし、それらの内的な特性と外的な幾何学との間の関連性を確立しています。
 </li></ul>
 </li></ul>
+
+<h3>Research Agents (研究エージェント)</h3>
+<p>
+<ul>
+<li>Deep Research: A Survey of Autonomous Research Agents</li>
+<li>深層研究：自律研究エージェントのサーベイ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2508.12752v1">https://www.alphaxiv.org/ja/overview/2508.12752v1</a></li>
+<li>概要
+<ul>
+<li>
+人間のような研究ワークフローを模倣するように設計された自律型AIエージェントの新たなパラダイムである「ディープリサーチ」を定義し、体系化
+</li></ul>
+</li></ul>
+</p>
 
 <h3>RL-Based Reasoning (強化学習に基づく推論)</h3>
 <p>
@@ -546,6 +669,48 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 </li></ul>
 </p>
 
+<h3>SNN: Spiking Neural Networks</h3>
+<p>
+<ul>
+<li>A Comprehensive Review of Spiking Neural Networks: Interpretation, Optimization, Efficiency, and Best Practices</li>
+<li>スパイクニューラルネットワークの包括的なレビュー：解釈、最適化、効率、およびベストプラクティス</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2303.10780v2">https://www.alphaxiv.org/ja/overview/2303.10780v2</a></li>
+<li>概要
+<ul>
+<li>
+スパイクニューラルネットワーク（SNN）における最近の進歩を網羅的にレビュー
+</li></ul>
+</li></ul>
+</p>
+
+<h3>Tea Leaf Disease Detection (茶葉病害検出)</h3>
+<p>
+<ul>
+<li>Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review</li>
+<li>機械学習に基づく茶葉病害検出：包括的レビュー</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2311.03240v1">https://www.alphaxiv.org/ja/overview/2311.03240v1</a></li>
+<li>概要
+<ul>
+<li>
+茶葉病害検出のための機械学習手法に関する包括的なレビュー
+</li></ul>
+</li></ul>
+</p>
+
+<h3>Text Summarization (テキスト要約)</h3>
+<p>
+<ul>
+<li>A Comprehensive Survey on Process-Oriented Automatic Text Summarization with Exploration of LLM-Based Methods</li>
+<li>プロセス指向型自動テキスト要約に関する包括的総説：LLMに基づく手法の検討</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2403.02901v2">https://www.alphaxiv.org/ja/overview/2403.02901v2</a></li>
+<li>概要
+<ul>
+<li>
+自動テキスト要約（ATS）の進化を、従来の統計的手法や深層学習手法から、最近の大規模言語モデル（LLM）ベースのアプローチまでマッピングし、LLM技術の詳細な分析を提供し、文献検索のための新しいLLM拡張アルゴリズムを導入
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Text-to-3D</h3>
 <p>
 <ul>
@@ -558,6 +723,49 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 急速に進化するテキストから3D生成の状況をマッピングし、3Dデータ表現、基盤となる技術、および方法を体系的に分類しています。忠実度、効率性、一貫性、制御可能性、多様性の向上における主要な課題と強化の方向性、そして様々な業界における多様なアプリケーションを概説しています。また、テキストから3Dへの技術の責任ある全体的な開発のための将来の課題も提示しています。
 </li></ul>
 </li></ul>
+</P>
+
+<h3>Time Series Analysis　(時系列分析)</h3>
+<p>
+<ul>
+<li>Multi-modal Time Series Analysis: A Tutorial and Survey</li>
+<li>マルチモーダル時系列分析：チュートリアルと調査</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2503.13709v1">https://www.alphaxiv.org/ja/overview/2503.13709v1</a></li>
+<li>概要
+<ul>
+<li>
+マルチモーダル時系列分析のための統一フレームワークを導入し、融合、アライメント、転移に基づいて手法を分類しながら、異なるドメインにわたるデータセット、技術、アプリケーションの系統的なレビューを提供している
+</li></ul>
+</li></ul>
+</p>
+
+<h3>Video Understanding　(動画理解)</h3>
+<p>
+<ul>
+<li>Video Understanding with Large Language Models: A Survey</li>
+<li>大規模言語モデルによる動画理解：サーベイ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2312.17432v6">https://www.alphaxiv.org/ja/overview/2312.17432v6</a></li>
+<li>概要
+<ul>
+<li>
+大規模言語モデル（Vid-LLM）を用いた動画理解という新たな分野について、そのアーキテクチャのパラダイム、学習戦略、評価方法を詳細にまとめたもの
+</li></ul>
+</li></ul>
+</p>
+
+<h3>VLM:Vision-Language Models (視覚言語モデル)</h3>
+<p>
+<ul>
+<li>Adapting Vision-Language Models Without Labels: A Comprehensive Survey</li>
+<li>視覚言語モデルのラベルなし適応: 包括的サーベイ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2508.05547v1">https://www.alphaxiv.org/ja/overview/2508.05547v1</a></li>
+<li>概要
+<ul>
+<li>
+ラベルなし視覚データの利用可能性と性質に基づいてアプローチを分類する新しい分類法を導入し、この分野における普及している方法論と重要な未解決の課題を特定している
+</li></ul>
+</li></ul>
+</p>
 
 (テンプレート)<br>
 <h3></h3>
