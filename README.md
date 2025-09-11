@@ -372,6 +372,15 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 <h3>Language Model (言語モデル)</h3>
 <p>
 <ul>
+<li>A Survey of Reinforcement Learning for Large Reasoning Models</li>
+<li>大規模推論モデルに対する強化学習の総説</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2509.08827v1">https://www.alphaxiv.org/ja/overview/2509.08827v1</a></li>
+<li>概要
+<ul>
+<li>
+包括的な調査により、強化学習の大規模推論モデルへの応用が体系的にレビューされており、その役割が人間との整合性から、数学やコーディングなどの領域における推論能力を直接向上させることへと変化していることが示されています。この研究は、報酬設計、ポリシー最適化、およびサンプリング戦略における進歩を統合し、検証可能な報酬がいかにして長形式の推論を可能にするかを示し、人工超知能（ASI）に向けてRLをスケールアップするための根本的な課題に対処しています。
+</li></ul>
+<br>
 <li>Large Language Models: A Survey</li>
 <li>大規模言語モデル：調査 - 概要</li>
 <li><a href="https://www.alphaxiv.org/ja/overview/2402.06196v1">https://www.alphaxiv.org/ja/overview/2402.06196v1</a></li>
