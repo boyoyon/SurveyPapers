@@ -652,6 +652,20 @@ Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
 </li>
 </ul>
 
+<h3>Search and Recommendation (検索と推薦)</h3>
+<p>
+<ul>
+<li>Result Diversification in Search and Recommendation: A Survey</li>
+<li>検索と推薦における結果の多様化：総説</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2212.14464v4">https://www.alphaxiv.org/ja/overview/2212.14464v4</a></li>
+<li>概要
+<ul>
+<li>
+このサーベイ論文は、検索および推薦システムにおける結果の多様化について、包括的かつ系統的に整理された概要を提供し、多様性に関する懸念、指標、および技術的アプローチの統一された分類法を導入している。断片的な用語を明確にし、100本以上の最新論文を分類することで、多様性を考慮した検索システムを理解し、実装するための基礎的なリソースを提供する。
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Self-Supervised Learning (自己教師あり学習), Anomaly Detection (異常検知)</h3>
 <p>
 <ul>
