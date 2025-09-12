@@ -18,7 +18,19 @@
 ・キーワードのアルファベット順<br>
 ・発表時期はURLで西暦下位2桁＋月を確認できる
 </p>
-
+<h3>3D Gaussian Splatting</h3>
+<p>
+<ul>
+<li>3D Gaussian Splatting in Robotics: A Survey</li>
+<li>ロボティクスにおける3Dガウシアンスプラッティング：レビュー</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2410.12262v2">https://www.alphaxiv.org/ja/overview/2410.12262v2</a></li>
+<li>概要
+<ul>
+<li>
+3Dガウススプラッティング（3DGS）技術とそのロボット工学への応用について包括的なレビューを提供し、既存の研究を分類し、将来の研究方向を特定しています。これは、ロボットのシーン理解、インタラクション、および固有の技術進歩のための3DGSの現在の状況を統合し、リアルタイムで写真のようにリアルな3D環境表現の可能性を強調しています。
+</li></ul>
+</li></ul>
+</p>
 <h3>3D point cloud classification and semantic segmentation (3D点群の分類とセグメンテーション)</h3>
 <p>
 <ul>
