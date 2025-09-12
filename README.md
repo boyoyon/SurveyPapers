@@ -330,6 +330,20 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 </li></ul>
 </li></ul>
 
+<h3>Hallcination (幻覚)</h3>
+<p>
+<ul>
+<li>A Survey of Hallucination in Large Foundation Models</li>
+<li>大規模基盤モデルにおけるハルシネーションのサーベイ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2309.05922v1">https://www.alphaxiv.org/ja/overview/2309.05922v1</a></li>
+<li>概要
+<ul>
+<li>
+ファウンデーションモデル（テキスト、画像、動画、音声）の主要な全てのモダリティにおける「ハルシネーション」に関する初の包括的な概要を提供
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Hardware Design (ハードウェア設計), Software Design (ソフトウェア設計)</h3>
 <p>
 <ul>
