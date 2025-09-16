@@ -820,6 +820,20 @@ Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
 </li></ul>
 </P>
 
+<h3>ToM: Theory of Mind (心の理論)</h3>
+<p>
+<ul>
+<li>Theory of Mind in Large Language Models: Assessment and Enhancement</li>
+<li>大規模言語モデルにおける心の理論：評価および向上</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2505.00026v2">https://www.alphaxiv.org/ja/overview/2505.00026v2</a></li>
+<li>概要
+<ul>
+<li>
+大規模言語モデル（LLM）における心の理論（ToM）能力に関する包括的かつ最新のレビューであり、最近の物語ベースの評価ベンチマーク（2023-2024年）と強化戦略の両方を分析している。
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Time Series Analysis　(時系列分析)</h3>
 <p>
 <ul>
