@@ -31,6 +31,21 @@
 </li></ul>
 </li></ul>
 </p>
+
+<h3>3D Object and Scene Generation</h3>
+<p>
+<ul>
+<li>Recent Advance in 3D Object and Scene Generation: A Survey</li>
+<li>最近の3Dオブジェクトおよびシーン生成の進歩：サーベイ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2504.11734v1">https://www.alphaxiv.org/ja/overview/2504.11734v1</a></li>
+<li>概要
+<ul>
+<li>
+静的3Dオブジェクトおよびシーン生成における最近の進歩を分析し、異なる表現と技術経路にわたる技術を分類しながら、3Dコンテンツを作成するためのデータ駆動型アプローチ、生成モデル、およびレイアウトガイド付き合成手法を検討する。
+</li></ul>
+</li></ul>
+</p>
+
 <h3>3D point cloud classification and semantic segmentation (3D点群の分類とセグメンテーション)</h3>
 <p>
 <ul>
@@ -407,6 +422,24 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 包括的な調査により、強化学習の大規模推論モデルへの応用が体系的にレビューされており、その役割が人間との整合性から、数学やコーディングなどの領域における推論能力を直接向上させることへと変化していることが示されています。この研究は、報酬設計、ポリシー最適化、およびサンプリング戦略における進歩を統合し、検証可能な報酬がいかにして長形式の推論を可能にするかを示し、人工超知能（ASI）に向けてRLをスケールアップするための根本的な課題に対処しています。
 </li></ul>
 <br>
+<li>Towards Transparent AI: A Survey on Explainable Large Language Models</li>
+<li>透明なAIに向けて：説明可能な大規模言語モデルに関するサーベイ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2506.21812v1">https://www.alphaxiv.org/ja/overview/2506.21812v1</a></li>
+<li>概要
+<ul>
+<li>
+大規模言語モデル（LLM）に特化したExplainable AI（XAI）手法について包括的なレビューを提供し、これらの手法をその基盤となるトランスフォーマーアーキテクチャによって分類する新しい分類法を導入している。現在の手法を統合し、アーキテクチャに特有の解釈可能性の課題を強調し、より透明で信頼できるAIシステムを育成するための将来の研究方向性を概説している。
+</li></ul>
+<br>
+<li>Analyzing 16,193 LLM Papers for Fun and Profits</li>
+<li>16,193のLLM論文を分析：楽しみと利益のために</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2504.08619v4">https://www.alphaxiv.org/ja/overview/2504.08619v4</a></li>
+<li>概要
+<ul>
+<li>
+2019年から2024年までのトップティアのコンピューターサイエンス会議77件から16,193件のLLM関連論文を分析し、進化する研究状況をマッピングしました。これにより、AI分野におけるLLMの優位性、システムおよび学際的分野における著しい成長、機関貢献の変化、および明確な国家専門性が明らかになりました。
+</li></ul>
+<br>
 <li>Large Language Models: A Survey</li>
 <li>大規模言語モデル：調査 - 概要</li>
 <li><a href="https://www.alphaxiv.org/ja/overview/2402.06196v1">https://www.alphaxiv.org/ja/overview/2402.06196v1</a></li>
@@ -476,6 +509,20 @@ AIエージェントの基盤となる知能としてスモール言語モデル
 <ul>
 <li>
 材料科学における人工知能の役割、特に基盤モデルと大規模言語モデルエージェントに焦点を当てた包括的な概要を提供する
+</li></ul>
+</li></ul>
+</p>
+
+<h3>Mental Health, Well-Being</h3>
+<p>
+<ul>
+<li>Artificial Intelligence in Mental Health and Well-Being: Evolution, Current Applications, Future Challenges, and Emerging Evidence</li>
+<li>メンタルヘルスとウェルビーイングにおける人工知能：進化、現状の応用、今後の課題、そして新たなエビデンス</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2501.10374v1">https://www.alphaxiv.org/ja/overview/2501.10374v1</a></li>
+<li>概要
+<ul>
+<li>
+メンタルヘルスとウェルビーイングにおける人工知能の進化、現在の応用、そして将来の課題を調査し、AIがケアのアクセシビリティとパーソナライゼーションを向上させる可能性を強調するとともに、強固な倫理的枠組みの極めて重要な必要性を強調しています。
 </li></ul>
 </li></ul>
 </p>
@@ -623,6 +670,18 @@ Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
 <ul>
 <li>
 人間のような研究ワークフローを模倣するように設計された自律型AIエージェントの新たなパラダイムである「ディープリサーチ」を定義し、体系化
+</li></ul>
+</li></ul>
+</p>
+<p>
+<ul>
+<li>Deep Research Agents: A Systematic Examination And Roadmap</li>
+<li>深層研究エージェント：体系的考察とロードマップ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2506.18096v2">https://www.alphaxiv.org/ja/overview/2506.18096v2</a></li>
+<li>概要
+<ul>
+<li>
+深層研究（DR）エージェントの体系的な検証とロードマップを提供し、その主要なコンポーネントを定義し、アーキテクチャを分類し、将来の課題を概説しています。動的な推論、適応的計画、反復的なツール使用を統合して複雑な情報調査タスクを実行するAIシステムの開発における、これまで分散していた取り組みを統合し、この分野に対する構造化された理解を提供します。
 </li></ul>
 </li></ul>
 </p>
@@ -799,6 +858,20 @@ Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
 <ul>
 <li>
 ラベルなし視覚データの利用可能性と性質に基づいてアプローチを分類する新しい分類法を導入し、この分野における普及している方法論と重要な未解決の課題を特定している
+</li></ul>
+</li></ul>
+</p>
+
+<h3>Vulnerabilities (脆弱性)</h3>
+<p>
+<ul>
+<li>Never Compromise to Vulnerabilities: A Comprehensive Survey on AI Governance</li>
+<li>脆弱性に決して妥協しない：AIガバナンスに関する包括的サーベイ</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2508.08789v4">https://www.alphaxiv.org/ja/overview/2508.08789v4</a></li>
+<li>概要
+<ul>
+<li>
+システム脆弱性と現実世界のリスクに対処するため、技術的側面と社会的側面を統合した包括的なAIガバナンスフレームワークを定義しました。このフレームワークは、課題を固有のセキュリティ、派生的なセキュリティ、社会倫理に分類し、防御における汎化ギャップや不十分な評価プロトコルといった重要な問題を明らかにしています。
 </li></ul>
 </li></ul>
 </p>
