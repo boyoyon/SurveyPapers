@@ -835,7 +835,7 @@ Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
 『Evaluating Large Language Models in Theory of Mind Tasks』(2023)<br>
 　(心の理論課題における大規模言語モデルの評価)<br>  
   <a href="https://arxiv.org/abs/2302.02083">https://arxiv.org/abs/2302.02083)</a><br>
-　大規模言語モデルの心の理論タスクにおける性能を評価し、最新モデルである<strong>ChatGPT-4</strong>strong>が誤信念タスクで75%の成功率を達成し、これは<strong>平均的な6歳児に匹敵する能力レベル</strong>strong>であることを発見した。
+　大規模言語モデルの心の理論タスクにおける性能を評価し、最新モデルである<strong>ChatGPT-4</strong>が誤信念タスクで75%の成功率を達成し、これは<strong>平均的な6歳児に匹敵する能力レベル</strong>であることを発見した。
 </li>
 </ul>
 </li></ul>
