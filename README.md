@@ -558,6 +558,20 @@ Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
 </li></ul>
 </p>
 
+<h3>Motion Generation (モーション生成)</h3>
+<p>
+<ul>
+<li>Text-driven Motion Generation: Overview, Challenges and Directions</li>
+<li>テキスト駆動型モーション生成：概要、課題、方向性</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2505.09379v1">https://www.alphaxiv.org/ja/overview/2505.09379v1</a></li>
+<li>概要
+<ul>
+<li>
+包括的な調査により、アーキテクチャパラダイム（VAE、拡散、ハイブリッド）およびモーション表現（離散、連続）全体にわたるテキスト駆動型モーション生成アプローチが検証され、現在のデータセット、評価方法、技術的課題が分析されると同時に、大規模モーションモデルやシーン認識型生成といった新たなトレンドが特定される。
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Multiagent Deep Reinforcement Learning (マルチ・エージェント深層強化学習)</h3>
 <p>
 <ul>
@@ -577,20 +591,6 @@ Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
 <ul>
 <li>
 ビデオゲームにおけるマルチエージェント強化学習（MARL）の応用に関する包括的なレビューを提供し、重要な課題を分析し、様々なジャンルにおける成功した実装を紹介している
-</li></ul>
-</li></ul>
-</p>
-
-<h3>Motion Generation (モーション生成)</h3>
-<p>
-<ul>
-<li>Text-driven Motion Generation: Overview, Challenges and Directions</li>
-<li>テキスト駆動型モーション生成：概要、課題、方向性</li>
-<li><a href="https://www.alphaxiv.org/ja/overview/2505.09379v1">https://www.alphaxiv.org/ja/overview/2505.09379v1</a></li>
-<li>概要
-<ul>
-<li>
-包括的な調査により、アーキテクチャパラダイム（VAE、拡散、ハイブリッド）およびモーション表現（離散、連続）全体にわたるテキスト駆動型モーション生成アプローチが検証され、現在のデータセット、評価方法、技術的課題が分析されると同時に、大規模モーションモデルやシーン認識型生成といった新たなトレンドが特定される。
 </li></ul>
 </li></ul>
 </p>
