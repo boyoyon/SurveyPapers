@@ -591,6 +591,20 @@ Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
 </li></ul>
 </p>
 
+<h3>Neural Differential Equations</h3>
+<p>
+<ul>
+<li>On Neural Differential Equations</li>
+<li>ニューラル微分方程式について</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2202.02435v1">https://www.alphaxiv.org/ja/overview/2202.02435v1</a></li>
+<li>概要
+<ul>
+<li>
+ニューラル微分方程式（NDEs）に関する包括的な調査と独創的な研究を提供する。
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Patent Analysis (特許分析), Multimodal AI (マルチモーダルAI)</h3>
 <p>
 <ul>
