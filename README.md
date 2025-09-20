@@ -477,7 +477,24 @@ LLM駆動型エージェントワークフローシステムの現在の状況�
 大規模言語モデルにおける継続学習に関する初の包括的な概観を提供
 </li></ul>
 <br>
-
+<li>A Review on Large Language Models for Visual Analytics</li>
+<li>視覚分析のための大規模言語モデルに関するレビュー</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2503.15176v1">https://www.alphaxiv.org/ja/overview/2503.15176v1</a></li>
+<li>概要
+<ul>
+<li>
+大規模言語モデル（LLM）とビジュアルアナリティクス（VA）の統合について広範なレビュー。
+</li></ul>
+<br>
+<li>Privacy in Large Language Models: Attacks, Defenses and Future Directions</li>
+<li>大規模言語モデルにおけるプライバシー：攻撃手法、防御策、および今後の展望</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2310.10383v2">https://www.alphaxiv.org/ja/overview/2310.10383v2</a></li>
+<li>概要
+<ul>
+<li>
+大規模言語モデルにおけるプライバシー攻撃と防御戦略の状況を分析する包括的な調査を提供し、データ記憶に起因する本質的な脆弱性と、統合から生じる新たなリスクを特定する
+</li></ul>
+<br>
 <li>Small Language Models are the Future of Agentic AI</li>
 <li>小型言語モデルはエージェントAIの未来である</li>
 <li><a href="https://www.alphaxiv.org/ja/overview/2506.02153v1">https://www.alphaxiv.org/ja/overview/2506.02153v1</a></li>
@@ -560,6 +577,20 @@ Mixture-of-Experts（MoE）モデルに関する包括的な調査論文
 <ul>
 <li>
 ビデオゲームにおけるマルチエージェント強化学習（MARL）の応用に関する包括的なレビューを提供し、重要な課題を分析し、様々なジャンルにおける成功した実装を紹介している
+</li></ul>
+</li></ul>
+</p>
+
+<h3>Motion Generation (モーション生成)</h3>
+<p>
+<ul>
+<li>Text-driven Motion Generation: Overview, Challenges and Directions</li>
+<li>テキスト駆動型モーション生成：概要、課題、方向性</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2505.09379v1">https://www.alphaxiv.org/ja/overview/2505.09379v1</a></li>
+<li>概要
+<ul>
+<li>
+包括的な調査により、アーキテクチャパラダイム（VAE、拡散、ハイブリッド）およびモーション表現（離散、連続）全体にわたるテキスト駆動型モーション生成アプローチが検証され、現在のデータセット、評価方法、技術的課題が分析されると同時に、大規模モーションモデルやシーン認識型生成といった新たなトレンドが特定される。
 </li></ul>
 </li></ul>
 </p>
