@@ -60,6 +60,20 @@
 </li></ul>
 </p>
 
+<h3>Active Learning (能動学習)</h3>
+<p>
+<ul>
+<li>A Survey on Deep Active Learning: Recent Advances and New Frontiers</li>
+<li>深層アクティブラーニングに関するサーベイ：近年の進展と新たなフロンティア</li>
+<li><a href="https://www.alphaxiv.org/ja/overview/2405.00334v2">https://www.alphaxiv.org/ja/overview/2405.00334v2</a></li>
+<li>概要
+<ul>
+<li>
+Deep Active Learning（DAL）の包括的な概要を提供し、その最近の進歩と応用を分類するとともに、現在の課題と将来の研究フロンティアを詳述している。
+</li></ul>
+</li></ul>
+</p>
+
 <h3>Agentic Reinforcement Learning (エージェント型強化学習)</h3>
 <p>
 <ul>
